@@ -1,6 +1,6 @@
 # Progress
 
-| Video | Outline | Record | Edit | Upload | Up RAWs |
+| Estudo | Outline | Record | Edit | Upload | Up RAWs |
 |---|:---:|:---:|:---:|:---:|:---:|
 | ***01 – Variáveis, Valores & Tipos*** ☑
 | Go Playground                 | ☐ | ☐ | ☐ | ☐ | ☐ |
