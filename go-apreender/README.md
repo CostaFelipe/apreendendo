@@ -1,4 +1,4 @@
-# Go: Aprendendo a Programar com Go Teste
+# Go: Aprendendo a Programar com Go
 
 01 - Variáveis, Valores & tipos
 02 - Exercícios: Ninja Nível 1
