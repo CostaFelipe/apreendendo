@@ -1,14 +1,15 @@
 # Progress
-Curso by Ellen Körbes (trazido p/ pt) and  Todd McLeod
- 
+Curso by Ellen Körbes (trazido p/ pt) and Todd McLeod
+link: https://www.youtube.com/watch?v=Qf2645sTqH0&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=7
+
 | Estudo | Feito |
 |---|:---:|
 | ***01 – Variáveis, Valores & Tipos*** ☑
-| Go Playground                 | ☐ |
-| Hello world!                  | ☐ |
-| Operador curto de declaração  | ☐ |
-| A palavra-chave var           | ☐ |
-| Explorando tipos              | ☐ |
+| Go Playground                 | ☑ |
+| Hello world!                  | ☑ |
+| Operador curto de declaração  | ☑ |
+| A palavra-chave var           | ☑ |
+| Explorando tipos              | ☑ |
 | Valor zero                    | ☐ |
 | O pacote fmt                  | ☐ |
 | Criando seu próprio tipo      | ☐ |
