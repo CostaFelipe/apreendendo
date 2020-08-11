@@ -10,10 +10,10 @@ link: https://www.youtube.com/watch?v=Qf2645sTqH0&list=PLCKpcjBB_VlBsxJ9IseNxFll
 | Operador curto de declaração  | ☑ |
 | A palavra-chave var           | ☑ |
 | Explorando tipos              | ☑ |
-| Valor zero                    | ☐ |
-| O pacote fmt                  | ☐ |
-| Criando seu próprio tipo      | ☐ |
-| Conversão, não coerção        | ☐ |
+| Valor zero                    | ☑ |
+| O pacote fmt                  | ☑ |
+| Criando seu próprio tipo      | ☑ |
+| Conversão, não coerção        | ☑ |
 | ***02 – Exercícios: Ninja Nível 1***
 | Contribua seu código      | ☐ |
 | Na prática: exercício #1  | ☐ |
