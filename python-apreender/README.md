@@ -1,10 +1,10 @@
 # Python: Aprendendo a Programar com Python
 | Estudo | Feito |
 |---|:---:|
-| 01 - Variáveis, Valores & tipos |  ☐  |
-| 02 - Declarações                |  ☐  |
-| 03 - Operadores & Operandos     |  ☐  |
-| 04 - Execução condicional       |  ☐  |
+| 01 - Variáveis, Valores & tipos |  ☑  |
+| 02 - Declarações                |  ☑  |
+| 03 - Operadores & Operandos     |  ☑  |
+| 04 - Execução condicional       |  ☑  |
 | 05 - Funções                    |  ☐  |
 | 06 - Interações                 |  ☐  |
 | 07 - String                     |  ☐  |
