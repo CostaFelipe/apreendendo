@@ -1,6 +1,6 @@
-max('Alô mundo')
+print(max('Alô mundo'))
 min('alô mundo')
 
 len('alô mundo')
 
-Funções de conversão de tipo
+#Funções de conversão de tipo
