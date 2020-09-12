@@ -7,8 +7,8 @@ n = 10
 #print('Pronto!')
 
 while True:
-    line = input('Escreva:')
-    if line == 'terminar':
+    line = input("digite:")
+    if line == 'exit':
         break
     print(line)
-print('Programa encerrado')
+print('sistema encerrado')
