@@ -4,4 +4,4 @@ while True:
     if add == 0:
         break
     lista.append(add)
-print("a lista é:",lista)    
+print(lista)    
